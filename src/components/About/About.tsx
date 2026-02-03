@@ -21,7 +21,6 @@ export const About: React.FC = () => {
             <p className="text-slate-300 leading-loose text-lg mb-8">
               Detail-oriented Web Developer with 4+ years of experience developing and supporting responsive web interfaces,
               CMS platforms, and custom UI solutions. Skilled in React.js, accessibility standards, and user interface layout.
-              Based in the vibrant tech hub of Bengaluru.
             </p>
             <div className="grid grid-cols-2 gap-6">
               <div className="p-4 bg-white/5 backdrop-blur-sm border border-white/5 rounded-2xl group hover:border-tealer/30 transition-all duration-300">
